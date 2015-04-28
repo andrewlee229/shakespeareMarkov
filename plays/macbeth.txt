@@ -1,14 +1,7 @@
 1606
-
 THE TRAGEDY OF MACBETH
-
-
 by William Shakespeare
-
-
-
 Dramatis Personae
-
   DUNCAN, King of Scotland
   MACBETH, Thane of Glamis and Cawdor, a general in the King's army
   LADY MACBETH, his wife
@@ -38,10 +31,6 @@ Dramatis Personae
   The Ghost of Banquo and other Apparitions
   Lords, Gentlemen, Officers, Soldiers, Murtherers, Attendants,
      and Messengers
-
-
-
-
 <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
 SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
 PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
@@ -50,17 +39,10 @@ DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
 PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
 COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
 SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
-
-
-
 SCENE: Scotland and England
-
-
 ACT I. SCENE I.
 A desert place. Thunder and lightning.
-
 Enter three Witches.
-
   FIRST WITCH. When shall we three meet again?
     In thunder, lightning, or in rain?
   SECOND WITCH. When the hurlyburly's done,
@@ -73,16 +55,10 @@ Enter three Witches.
   ALL. Paddock calls. Anon!
     Fair is foul, and foul is fair.
     Hover through the fog and filthy air.                Exeunt.
-
-
-
-
 SCENE II.
 A camp near Forres. Alarum within.
-
 Enter Duncan, Malcolm, Donalbain, Lennox, with Attendants,
 meeting a bleeding Sergeant.
-
   DUNCAN. What bloody man is that? He can report,
     As seemeth by his plight, of the revolt
     The newest state.
@@ -134,9 +110,7 @@ meeting a bleeding Sergeant.
     They smack of honor both. Go get him surgeons.
                                         Exit Sergeant, attended.
     Who comes here?
-
                        Enter Ross.
-
   MALCOLM The worthy Thane of Ross.
   LENNOX. What a haste looks through his eyes! So should he look  
     That seems to speak things strange.
@@ -165,15 +139,9 @@ meeting a bleeding Sergeant.
   ROSS. I'll see it done.
   DUNCAN. What he hath lost, noble Macbeth hath won.
                                                          Exeunt.
-
-
-
-
 SCENE III.
 A heath. Thunder.
-
 Enter the three Witches.
-
   FIRST WITCH. Where hast thou been, sister?
   SECOND WITCH. Killing swine.
   THIRD WITCH. Sister, where thou?
@@ -211,9 +179,7 @@ Enter the three Witches.
     Thrice to thine, and thrice to mine,
     And thrice again, to make up nine.
     Peace! The charm's wound up.  
-
                  Enter Macbeth and Banquo.
-
   MACBETH. So foul and fair a day I have not seen.
   BANQUO. How far is't call'd to Forres? What are these
     So wither'd and so wild in their attire,
@@ -268,9 +234,7 @@ Enter the three Witches.
   BANQUO. You shall be King.
   MACBETH. And Thane of Cawdor too. Went it not so?
   BANQUO. To the selfsame tune and words. Who's here?
-
                 Enter Ross and Angus.
-  
   ROSS. The King hath happily received, Macbeth,
     The news of thy success; and when he reads
     Thy personal venture in the rebels' fight,
@@ -351,15 +315,9 @@ Enter the three Witches.
     Our free hearts each to other.
   BANQUO. Very gladly.
   MACBETH. Till then, enough. Come, friends.             Exeunt.
-
-
-
-
 SCENE IV.
 Forres. The palace.
-
 Flourish. Enter Duncan, Malcolm, Donalbain, Lennox, and Attendants.
-
   DUNCAN. Is execution done on Cawdor? Are not
     Those in commission yet return'd?
   MALCOLM. My liege,
@@ -376,9 +334,7 @@ Flourish. Enter Duncan, Malcolm, Donalbain, Lennox, and Attendants.
     To find the mind's construction in the face:
     He was a gentleman on whom I built
     An absolute trust.  
-
              Enter Macbeth, Banquo, Ross, and Angus.
-
     O worthiest cousin!
     The sin of my ingratitude even now
     Was heavy on me. Thou art so far before,
@@ -428,15 +384,9 @@ Flourish. Enter Duncan, Malcolm, Donalbain, Lennox, and Attendants.
     It is a banquet to me. Let's after him,
     Whose care is gone before to bid us welcome.
     It is a peerless kinsman.                  Flourish. Exeunt.
-
-
-
-
 SCENE V.
 Inverness. Macbeth's castle.
-
 Enter Lady Macbeth, reading a letter.
-
   LADY MACBETH. "They met me in the day of success, and I have
     learned by the perfectest report they have more in them than
     mortal knowledge. When I burned in desire to question them
@@ -449,7 +399,6 @@ Enter Lady Macbeth, reading a letter.
     that thou mightst not lose the dues of rejoicing, by being
     ignorant of what greatness is promised thee. Lay it to thy heart,
     and farewell."
-
     Glamis thou art, and Cawdor, and shalt be
     What thou art promised. Yet do I fear thy nature.
     It is too full o' the milk of human kindness
@@ -466,9 +415,7 @@ Enter Lady Macbeth, reading a letter.
     All that impedes thee from the golden round,
     Which fate and metaphysical aid doth seem
     To have thee crown'd withal.
-
                      Enter a Messenger.
-
     What is your tidings?
   MESSENGER. The King comes here tonight.
   LADY MACBETH. Thou'rt mad to say it!
@@ -497,9 +444,7 @@ Enter Lady Macbeth, reading a letter.
     That my keen knife see not the wound it makes
     Nor heaven peep through the blanket of the dark
     To cry, "Hold, hold!"
-
                     Enter Macbeth.
-
     Great Glamis! Worthy Cawdor!
     Greater than both, by the all-hail hereafter!
     Thy letters have transported me beyond
@@ -524,16 +469,10 @@ Enter Lady Macbeth, reading a letter.
   LADY MACBETH. Only look up clear;
     To alter favor ever is to fear.
     Leave all the rest to me.                            Exeunt.
-
-
-
-
 SCENE VI.
 Before Macbeth's castle.  Hautboys and torches.
-
 Enter Duncan, Malcolm, Donalbain, Banquo, Lennox, Macduff, Ross, Angus,
 and Attendants.
-
   DUNCAN. This castle hath a pleasant seat; the air
     Nimbly and sweetly recommends itself
     Unto our gentle senses.
@@ -545,9 +484,7 @@ and Attendants.
     Hath made his pendant bed and procreant cradle;
     Where they most breed and haunt, I have observed
     The air is delicate.
-
                      Enter Lady Macbeth.
-
   DUNCAN. See, see, our honor'd hostess!
     The love that follows us sometime is our trouble,  
     Which still we thank as love. Herein I teach you
@@ -574,16 +511,10 @@ and Attendants.
     Conduct me to mine host. We love him highly,
     And shall continue our graces towards him.
     By your leave, hostess.                              Exeunt.
-
-
-
-
 SCENE VII
 Macbeth's castle.  Hautboys and torches.
-
 Enter a Sewer and divers Servants with dishes and service, who pass over
 the stage.  Then enter Macbeth.
-
   MACBETH. If it were done when 'tis done, then 'twere well
     It were done quickly. If the assassination
     Could trammel up the consequence, and catch,
@@ -612,9 +543,7 @@ the stage.  Then enter Macbeth.
     To prick the sides of my intent, but only
     Vaulting ambition, which o'erleaps itself
     And falls on the other.
-
                  Enter Lady Macbeth.
-
     How now, what news?
   LADY MACBETH. He has almost supp'd. Why have you left the chamber?
   MACBETH. Hath he ask'd for me?
@@ -680,10 +609,6 @@ the stage.  Then enter Macbeth.
     Away, and mock the time with fairest show:
     False face must hide what the false heart doth know.  
                                                          Exeunt.
-
-
-
-
 <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
 SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
 PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
@@ -692,14 +617,9 @@ DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
 PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
 COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
 SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
-
-
-
 ACT II. SCENE I.
 Inverness. Court of Macbeth's castle.
-
 Enter Banquo and Fleance, bearing a torch before him.
-
   BANQUO. How goes the night, boy?
   FLEANCE. The moon is down; I have not heard the clock.
   BANQUO. And she goes down at twelve.
@@ -710,9 +630,7 @@ Enter Banquo and Fleance, bearing a torch before him.
     And yet I would not sleep. Merciful powers,
     Restrain in me the cursed thoughts that nature
     Gives way to in repose!
-
            Enter Macbeth and a Servant with a torch.
-
     Give me my sword.
     Who's there?
   MACBETH. A friend.
@@ -777,15 +695,9 @@ Enter Banquo and Fleance, bearing a torch before him.
     I go, and it is done; the bell invites me.
     Hear it not, Duncan, for it is a knell
     That summons thee to heaven, or to hell.               Exit.
-
-
-
-
 SCENE II.
 The same.
-
 Enter Lady Macbeth.
-
   LADY MACBETH. That which hath made them drunk hath made me bold;
     What hath quench'd them hath given me fire. Hark! Peace!
     It was the owl that shriek'd, the fatal bellman,
@@ -800,9 +712,7 @@ Enter Lady Macbeth.
     Confounds us. Hark! I laid their daggers ready;
     He could not miss 'em. Had he not resembled
     My father as he slept, I had done't.
-
                       Enter Macbeth,
-  
     My husband!
   MACBETH. I have done the deed. Didst thou not hear a noise?
   LADY MACBETH. I heard the owl scream and the crickets cry.
@@ -865,9 +775,7 @@ Enter Lady Macbeth.
     Clean from my hand? No, this my hand will rather  
     The multitudinous seas incarnadine,
     Making the green one red.
-
                    Re-enter Lady Macbeth.
-
   LADY MACBETH. My hands are of your color, but I shame
     To wear a heart so white. [Knocking within.] I hear knocking
     At the south entry. Retire we to our chamber.
@@ -881,15 +789,9 @@ Enter Lady Macbeth.
                                                 Knocking within.
     Wake Duncan with thy knocking! I would thou couldst!
                                                          Exeunt.
-
-
-
-
 SCENE III.
 The same.
-
 Enter a Porter. Knocking within.
-
   PORTER. Here's a knocking indeed! If a man were porter of Hell
     Gate, he should have old turning the key. [Knocking within.]
     Knock, knock, knock! Who's there, i' the name of Belzebub? Here's
@@ -909,9 +811,7 @@ Enter a Porter. Knocking within.
     bonfire. [Knocking within.] Anon, anon! I pray you, remember the  
     porter.
                                                  Opens the gate.
-
                        Enter Macduff and Lennox.
-
   MACDUFF. Was it so late, friend, ere you went to bed,
     That you do lie so late?
   PORTER. Faith, sir, we were carousing till the second cock; and
@@ -929,9 +829,7 @@ Enter a Porter. Knocking within.
     him for his lie, and, I think, being too strong for him, though  
     he took up my legs sometime, yet I made shift to cast him.
   MACDUFF. Is thy master stirring?
-
                              Enter Macbeth.
-
     Our knocking has awaked him; here he comes.
   LENNOX. Good morrow, noble sir.
   MACBETH. morrow, both.
@@ -959,9 +857,7 @@ Enter a Porter. Knocking within.
   MACBETH. 'Twas a rough fight.
   LENNOX. My young remembrance cannot parallel
     A fellow to it.
-
                       Re-enter Macduff.
-
   MACDUFF. O horror, horror, horror! Tongue nor heart
     Cannot conceive nor name thee.
   MACBETH. LENNOX. What's the matter?
@@ -983,9 +879,7 @@ Enter a Porter. Knocking within.
     The great doom's image! Malcolm! Banquo!
     As from your graves rise up, and walk like sprites
     To countenance this horror! Ring the bell.       Bell rings.
-
                      Enter Lady Macbeth.
-
   LADY MACBETH. What's the business,  
     That such a hideous trumpet calls to parley
     The sleepers of the house? Speak, speak!
@@ -993,9 +887,7 @@ Enter a Porter. Knocking within.
     'Tis not for you to hear what I can speak:
     The repetition in a woman's ear
     Would murther as it fell.
-
                      Enter Banquo.
-
     O Banquo, Banquo!
     Our royal master's murther'd.
   LADY MACBETH. Woe, alas!
@@ -1003,18 +895,14 @@ Enter a Porter. Knocking within.
   BANQUO. Too cruel anywhere.
     Dear Duff, I prithee, contradict thyself,
     And say it is not so.
-
           Re-enter Macbeth and Lennox, with Ross.
-
   MACBETH. Had I but died an hour before this chance,  
     I had lived a blessed time, for from this instant
     There's nothing serious in mortality.
     All is but toys; renown and grace is dead,
     The wine of life is drawn, and the mere lees
     Is left this vault to brag of.
-
                 Enter Malcolm and Donalbain.
-
   DONALBAIN. What is amiss?
   MACBETH. You are, and do not know't.
     The spring, the head, the fountain of your blood
@@ -1081,15 +969,9 @@ Enter a Porter. Knocking within.
     But shift away. There's warrant in that theft
     Which steals itself when there's no mercy left.
                                                          Exeunt.
-
-
-
-
 SCENE IV.
 Outside Macbeth's castle.
-
 Enter Ross with an Old Man.
-
   OLD MAN. Threescore and ten I can remember well,
     Within the volume of which time I have seen
     Hours dreadful and things strange, but this sore night
@@ -1113,9 +995,7 @@ Enter Ross with an Old Man.
   OLD MAN. 'Tis said they eat each other.
   ROSS. They did so, to the amazement of mine eyes
     That look'd upon't.
-
                      Enter Macduff.
-
     Here comes the good Macduff.
     How goes the world, sir, now?
   MACDUFF. Why, see you not?
@@ -1147,10 +1027,6 @@ Enter Ross with an Old Man.
   OLD MAN. God's benison go with you and with those
     That would make good of bad and friends of foes!
                                                          Exeunt.
-
-
-
-
 <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
 SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
 PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
@@ -1159,14 +1035,9 @@ DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
 PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
 COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
 SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
-
-
-
 ACT III. SCENE I.
 Forres. The palace.
-
 Enter Banquo.
-
   BANQUO. Thou hast it now: King, Cawdor, Glamis, all,
     As the weird women promised, and I fear
     Thou play'dst most foully for't; yet it was said
@@ -1177,10 +1048,8 @@ Enter Banquo.
     Why, by the verities on thee made good,
     May they not be my oracles as well
     And set me up in hope? But hush, no more.
-
       Sennet sounds. Enter Macbeth as King, Lady Macbeth
     as Queen, Lennox, Ross, Lords, Ladies, and Attendants.
-
   MACBETH. Here's our chief guest.
   LADY MACBETH. If he had been forgotten,
     It had been as a gap in our great feast  
@@ -1248,9 +1117,7 @@ Enter Banquo.
     To make them kings -the seed of Banquo kings!
     Rather than so, come, Fate, into the list,
     And champion me to the utterance! Who's there?
-
         Re-enter Attendant, with two Murtherers.
-
     Now go to the door, and stay there till we call.
                                                  Exit Attendant.
     Was it not yesterday we spoke together?
@@ -1333,15 +1200,9 @@ Enter Banquo.
                                               Exeunt Murtherers.
     It is concluded: Banquo, thy soul's flight,
     If it find heaven, must find it out tonight.           Exit.
-
-
-
-
 SCENE II.
 The palace.
-
 Enter Lady Macbeth and a Servant.
-
   LADY MACBETH. Is Banquo gone from court?
   SERVANT. Ay, madam, but returns again tonight.
   LADY MACBETH. Say to the King I would attend his leisure
@@ -1351,9 +1212,7 @@ Enter Lady Macbeth and a Servant.
     Where our desire is got without content.
     'Tis safer to be that which we destroy
     Than by destruction dwell in doubtful joy.
-
                     Enter Macbeth.
-
     How now, my lord? Why do you keep alone,
     Of sorriest fancies your companions making,
     Using those thoughts which should indeed have died
@@ -1406,15 +1265,9 @@ Enter Lady Macbeth and a Servant.
     Thou marvel'st at my words, but hold thee still:
     Things bad begun make strong themselves by ill.
     So, prithee, go with me.                             Exeunt.
-
-
-
-
 SCENE III.
 A park near the palace.
-
 Enter three Murtherers.
-
   FIRST MURTHERER. But who did bid thee join with us?
   THIRD MURTHERER. Macbeth.
   SECOND MURTHERER. He needs not our mistrust, since he delivers
@@ -1435,9 +1288,7 @@ Enter three Murtherers.
     So all men do -from hence to the palace gate
     Make it their walk.
   SECOND MURTHERER. A light, a light!
-
               Enter Banquo, and Fleance with a torch.
-
   THIRD MURTHERER. 'Tis he.
   FIRST MURTHERER. Stand to't.
   BANQUO. It will be rain tonight.
@@ -1452,15 +1303,9 @@ Enter three Murtherers.
     Best half of our affair.
   FIRST MURTHERER. Well, let's away and say how much is done.
                                                          Exeunt.
-
-
-
-
 SCENE IV.
 A Hall in the palace. A banquet prepared.
-
 Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
-
   MACBETH. You know your own degrees; sit down. At first
     And last the hearty welcome.
   LORDS. Thanks to your Majesty.
@@ -1470,9 +1315,7 @@ Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
     We will require her welcome.
   LADY MACBETH. Pronounce it for me, sir, to all our friends,
     For my heart speaks they are welcome.
-
                 Enter first Murtherer to the door.
-
   MACBETH. See, they encounter thee with their hearts' thanks.
     Both sides are even; here I'll sit i' the midst.
     Be large in mirth; anon we'll drink a measure
@@ -1511,9 +1354,7 @@ Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
     Now good digestion wait on appetite,
     And health on both!
   LENNOX. May't please your Highness sit.
-
       The Ghost of Banquo enters and sits in Macbeth's place.
-
   MACBETH. Here had we now our country's honor roof'd,
     Were the graced person of our Banquo present,
     Who may I rather challenge for unkindness  
@@ -1576,9 +1417,7 @@ Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
     Would he were here! To all and him we thirst,
     And all to all.
   LORDS. Our duties and the pledge.
-  
                      Re-enter Ghost.
-
   MACBETH. Avaunt, and quit my sight! Let the earth hide thee!
     Thy bones are marrowless, thy blood is cold;
     Thou hast no speculation in those eyes
@@ -1639,15 +1478,9 @@ Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
   MACBETH. Come, we'll to sleep. My strange and self-abuse  
     Is the initiate fear that wants hard use.
     We are yet but young in deed.                       Exeunt.
-
-
-
-
 SCENE V.
 A heath. Thunder.
-
 Enter the three Witches, meeting Hecate.
-
   FIRST WITCH. Why, how now, Hecate? You look angerly.
   HECATE. Have I not reason, beldams as you are,
     Saucy and overbold? How did you dare
@@ -1687,15 +1520,9 @@ Enter the three Witches, meeting Hecate.
     Sits in a foggy cloud and stays for me.                Exit.  
   FIRST WITCH. Come, let's make haste; she'll soon be back again.
                                                          Exeunt.
-
-
-
-
 SCENE VI.
 Forres. The palace.
-
 Enter Lennox and another Lord.
-
   LENNOX. My former speeches have but hit your thoughts,
     Which can interpret farther; only I say
     Thing's have been strangely borne. The gracious Duncan
@@ -1750,10 +1577,6 @@ Enter Lennox and another Lord.
     Under a hand accursed!
   LORD. I'll send my prayers with him.
                                                          Exeunt.
-
-
-
-
 <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
 SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
 PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
@@ -1762,12 +1585,8 @@ DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
 PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
 COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
 SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
-
-
-
 ACT IV. SCENE I.
 A cavern. In the middle, a boiling cauldron. Thunder.
-
 Enter the three Witches.
   FIRST WITCH. Thrice the brinded cat hath mew'd.
   SECOND WITCH. Thrice and once the hedge-pig whined.
@@ -1807,9 +1626,7 @@ Enter the three Witches.
     Fire burn and cauldron bubble.
   SECOND WITCH. Cool it with a baboon's blood,
     Then the charm is firm and good.  
-
             Enter Hecate to the other three Witches.
-
   HECATE. O, well done! I commend your pains,
     And everyone shall share i' the gains.
     And now about the cauldron sing,
@@ -1821,9 +1638,7 @@ Enter the three Witches.
     Something wicked this way comes.
     Open, locks,
     Whoever knocks!
-
                       Enter Macbeth.
-
   MACBETH. How now, you secret, black, and midnight hags?
     What is't you do?
   ALL. A deed without a name.  
@@ -1851,9 +1666,7 @@ Enter the three Witches.
     Into the flame.
   ALL. Come, high or low;
     Thyself and office deftly show!
-
             Thunder. First Apparition: an armed Head.
-
   MACBETH. Tell me, thou unknown power-
   FIRST WITCH. He knows thy thought:
     Hear his speech, but say thou nought.
@@ -1864,9 +1677,7 @@ Enter the three Witches.
     Thou hast harp'd my fear aright. But one word more-
   FIRST WITCH. He will not be commanded. Here's another,
     More potent than the first.
-
           Thunder. Second Apparition: a bloody Child.
-  
   SECOND APPARITION. Macbeth! Macbeth! Macbeth!
   MACBETH. Had I three ears, I'd hear thee.
   SECOND APPARITION. Be bloody, bold, and resolute: laugh to scorn
@@ -1877,10 +1688,8 @@ Enter the three Witches.
     And take a bond of fate: thou shalt not live,
     That I may tell pale-hearted fear it lies,
     And sleep in spite of thunder.
-
        Thunder. Third Apparition: a Child crowned,
                with a tree in his hand.
-
     What is this,
     That rises like the issue of a king,
     And wears upon his baby brow the round
@@ -1911,10 +1720,8 @@ Enter the three Witches.
   THIRD. WITCH. Show!
   ALL. Show his eyes, and grieve his heart;
     Come like shadows, so depart!
-
     A show of eight Kings, the last with a glass in his hand;
                    Banquo's Ghost following.
-
   MACBETH. Thou are too like the spirit of Banquo Down!
     Thy crown does sear mine eyeballs. And thy hair,
     Thou other gold-bound brow, is like the first.
@@ -1941,9 +1748,7 @@ Enter the three Witches.
   MACBETH. are they? Gone? Let this pernicious hour
     Stand ay accursed in the calendar!
     Come in, without there!
-
                     Enter Lennox.
-
   LENNOX. What's your Grace's will?
   MACBETH. Saw you the weird sisters?
   LENNOX. No, my lord.  
@@ -1969,15 +1774,9 @@ Enter the three Witches.
     This deed I'll do before this purpose cool.  
     But no more sights! -Where are these gentlemen?
     Come, bring me where they are.                       Exeunt.
-
-
-
-
 SCENE II.
 Fife. Macduff's castle.
-
 Enter Lady Macduff, her Son, and Ross.
-
   LADY MACDUFF. What had he done, to make him fly the land?
   ROSS. You must have patience, madam.
   LADY MACDUFF. He had none;
@@ -2044,9 +1843,7 @@ Enter Lady Macduff, her Son, and Ross.
   SON. If he were dead, you'ld weep for him; if you would not, it
     were a good sign that I should quickly have a new father.
   LADY MACDUFF. Poor prattler, how thou talk'st!
-
                     Enter a Messenger.
-
   MESSENGER. Bless you, fair dame! I am not to you known,
     Though in your state of honor I am perfect.
     I doubt some danger does approach you nearly.
@@ -2063,9 +1860,7 @@ Enter Lady Macduff, her Son, and Ross.
     Accounted dangerous folly. Why then, alas,
     Do I put up that womanly defense,
     To say I have done no harm -What are these faces?
-
                       Enter Murtherers.
-
   FIRST MURTHERER. Where is your husband?
   LADY MACDUFF. I hope, in no place so unsanctified
     Where such as thou mayst find him.
@@ -2078,15 +1873,9 @@ Enter Lady Macduff, her Son, and Ross.
     Run away, I pray you!                                  Dies.
                             Exit Lady Macduff, crying "Murther!"
                                Exeunt Murtherers, following her.
-
-
-
-
 SCENE III.
 England. Before the King's palace.
-
 Enter Malcolm and Macduff.
-
   MALCOLM. Let us seek out some desolate shade and there
     Weep our sad bosoms empty.
   MACDUFF. Let us rather
@@ -2241,9 +2030,7 @@ Enter Malcolm and Macduff.
     Be like our warranted quarrel! Why are you silent?
   MACDUFF. Such welcome and unwelcome things at once
     'Tis hard to reconcile.
-
                      Enter a Doctor.
-  
   MALCOLM. Well, more anon. Comes the King forth, I pray you?
   DOCTOR. Ay, sir, there are a crew of wretched souls
     That stay his cure. Their malady convinces
@@ -2266,9 +2053,7 @@ Enter Malcolm and Macduff.
     He hath a heavenly gift of prophecy,  
     And sundry blessings hang about his throne
     That speak him full of grace.
-
                     Enter Ross.
-
   MACDUFF. See, who comes here?
   MALCOLM. My countryman, but yet I know him not.
   MACDUFF. My ever gentle cousin, welcome hither.
@@ -2371,10 +2156,6 @@ Enter Malcolm and Macduff.
     Is ripe for shaking, and the powers above
     Put on their instruments. Receive what cheer you may,
     The night is long that never finds the day.          Exeunt.
-
-
-
-
 <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
 SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
 PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
@@ -2383,14 +2164,9 @@ DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
 PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
 COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
 SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
-
-
-
 ACT V. SCENE I.
 Dunsinane. Anteroom in the castle.
-
 Enter a Doctor of Physic and a Waiting Gentlewoman.
-
   DOCTOR. I have two nights watched with you, but can perceive no
     truth in your report. When was it she last walked?
   GENTLEWOMAN. Since his Majesty went into the field, have seen her
@@ -2406,9 +2182,7 @@ Enter a Doctor of Physic and a Waiting Gentlewoman.
   DOCTOR. You may to me, and 'tis most meet you should.
   GENTLEWOMAN. Neither to you nor anyone, having no witness to
     confirm my speech.
-
                 Enter Lady Macbeth with a taper.  
-
     Lo you, here she comes! This is her very guise, and, upon my
     life, fast asleep. Observe her; stand close.
   DOCTOR. How came she by that light?
@@ -2466,15 +2240,9 @@ Exit.
     I think, but dare not speak.
   GENTLEWOMAN. Good night, good doctor.
                                                          Exeunt.
-
-
-
-
 SCENE II.
 The country near Dunsinane. Drum and colors.
-
 Enter Menteith, Caithness, Angus, Lennox, and Soldiers.
-
   MENTEITH. The English power is near, led on by Malcolm,
     His uncle Siward, and the good Macduff.
     Revenges burn in them, for their dear causes
@@ -2512,15 +2280,9 @@ Enter Menteith, Caithness, Angus, Lennox, and Soldiers.
   LENNOX. Or so much as it needs
     To dew the sovereign flower and drown the weeds.
     Make we our march towards Birnam.           Exeunt marching.
-
-
-
-
 SCENE III.
 Dunsinane. A room in the castle.
-
 Enter Macbeth, Doctor, and Attendants.
-
   MACBETH. Bring me no more reports; let them fly all!
     Till Birnam Wood remove to Dunsinane
     I cannot taint with fear. What's the boy Malcolm?
@@ -2531,9 +2293,7 @@ Enter Macbeth, Doctor, and Attendants.
     And mingle with the English epicures!
     The mind I sway by and the heart I bear
     Shall never sag with doubt nor shake with fear.
-
                        Enter a Servant.
-
     The devil damn thee black, thou cream-faced loon!
     Where got'st thou that goose look?
   SERVANT. There is ten thousand-
@@ -2556,9 +2316,7 @@ Enter Macbeth, Doctor, and Attendants.
     Curses, not loud but deep, mouth-honor, breath,
     Which the poor heart would fain deny and dare not.
     Seyton!
-
                        Enter Seyton.  
-
   SEYTON. What's your gracious pleasure?
   MACBETH. What news more?
   SEYTON. All is confirm'd, my lord, which was reported.
@@ -2598,16 +2356,10 @@ Enter Macbeth, Doctor, and Attendants.
     Till Birnam Forest come to Dunsinane.
   DOCTOR. [Aside.] Were I from Dunsinane away and clear,
     Profit again should hardly draw me here.             Exeunt.
-
-
-
-
 SCENE IV.
 Country near Birnam Wood. Drum and colors.
-
 Enter Malcolm, old Seward and his Son, Macduff, Menteith, Caithness,
 Angus, Lennox, Ross, and Soldiers, marching.
-
   MALCOLM. Cousins, I hope the days are near at hand
     That chambers will be safe.
   MENTEITH. We doubt it nothing.
@@ -2636,15 +2388,9 @@ Angus, Lennox, Ross, and Soldiers, marching.
     But certain issue strokes must arbitrate.
     Towards which advance the war.
                                                 Exeunt Marching.
-
-
-
-
 SCENE V.
 Dunsinane. Within the castle.
-
 Enter Macbeth, Seyton, and Soldiers, with drum and colors.
-
   MACBETH. Hang out our banners on the outward walls;
     The cry is still, "They come!" Our castle's strength
     Will laugh a siege to scorn. Here let them lie
@@ -2662,7 +2408,6 @@ Enter Macbeth, Seyton, and Soldiers, with drum and colors.
     As life were in't. I have supp'd full with horrors;
     Direness, familiar to my slaughterous thoughts,
     Cannot once start me.  
-
                   Re-enter Seyton.
      Wherefore was that cry?
   SEYTON. The Queen, my lord, is dead.
@@ -2678,9 +2423,7 @@ Enter Macbeth, Seyton, and Soldiers, with drum and colors.
     And then is heard no more. It is a tale
     Told by an idiot, full of sound and fury,
     Signifying nothing.
-
                  Enter a Messenger.
-
     Thou comest to use thy tongue; thy story quickly.  
   MESSENGER. Gracious my lord,
     I should report that which I say I saw,
@@ -2708,16 +2451,10 @@ Enter Macbeth, Seyton, and Soldiers, with drum and colors.
     And wish the estate o' the world were now undone.
     Ring the alarum bell! Blow, wind! Come, wrack!
     At least we'll die with harness on our back.         Exeunt.
-
-
-
-
 SCENE VI.
 Dunsinane.  Before the castle.
-
 Enter Malcolm, old Siward, Macduff, and their Army, with boughs.
 Drum and colors.
-
   MALCOLM. Now near enough; your leavy screens throw down,
     And show like those you are. You, worthy uncle,
     Shall with my cousin, your right noble son,
@@ -2730,22 +2467,14 @@ Drum and colors.
   MACDUFF. Make all our trumpets speak, give them all breath,
     Those clamorous harbingers of blood and death.
                                                          Exeunt.
-
-
-
-
 SCENE VII.
 Dunsinane.  Before the castle.  Alarums.
-
 Enter Macbeth.
-
   MACBETH. They have tied me to a stake; I cannot fly,
     But bear-like I must fight the course. What's he
     That was not born of woman? Such a one
     Am I to fear, or none.
-
                      Enter young Siward.
-
   YOUNG SIWARD. What is thy name?
   MACBETH. Thou'lt be afraid to hear it.
   YOUNG SIWARD. No, though thou call'st thyself a hotter name
@@ -2760,9 +2489,7 @@ Enter Macbeth.
   MACBETH. Thou wast born of woman.
     But swords I smile at, weapons laugh to scorn,
     Brandish'd by man that's of a woman born.              Exit.
-
                 Alarums. Enter Macduff.
-
   MACDUFF. That way the noise is. Tyrant, show thy face!
     If thou best slain and with no stroke of mine,
     My wife and children's ghosts will haunt me still.
@@ -2773,9 +2500,7 @@ Enter Macbeth.
     By this great clatter, one of greatest note
     Seems bruited. Let me find him, Fortune!
     And more I beg not.                           Exit. Alarums.
-
                 Enter Malcolm and old Siward.
-  
   SIWARD. This way, my lord; the castle's gently render'd.
     The tyrant's people on both sides do fight,
     The noble Thanes do bravely in the war,
@@ -2785,21 +2510,13 @@ Enter Macbeth.
     That strike beside us.
   SIWARD. Enter, sir, the castle.
                                                  Exeunt. Alarum.
-
-
-
-
 SCENE VIII.
 Another part of the field.
-
 Enter Macbeth.
-
   MACBETH. Why should I play the Roman fool and die
     On mine own sword? Whiles I see lives, the gashes
     Do better upon them.
-
                       Enter Macduff.
-
   MACDUFF. Turn, hell hound, turn!
   MACBETH. Of all men else I have avoided thee.
     But get thee back, my soul is too much charged
@@ -2837,15 +2554,9 @@ Enter Macbeth.
     I throw my warlike shield! Lay on, Macduff,
     And damn'd be him that first cries, "Hold, enough!"
                                        Exeunt fighting. Alarums.
-
-
-
-
 SCENE IX.
-
 Retreat. Flourish. Enter, with drum and colors, Malcolm, old Siward, Ross,
 the other Thanes, and Soldiers.
-
   MALCOLM. I would the friends we miss were safe arrived.
   SIWARD. Some must go off, and yet, by these I see,
     So great a day as this is cheaply bought.
@@ -2870,9 +2581,7 @@ the other Thanes, and Soldiers.
   SIWARD. He's worth no more:
     They say he parted well and paid his score,
     And so God be with him! Here comes newer comfort.
-
              Re-enter Macduff, with Macbeth's head.
-
   MACDUFF. Hail, King, for so thou art. Behold where stands
     The usurper's cursed head. The time is free.
     I see thee compass'd with thy kingdom's pearl
