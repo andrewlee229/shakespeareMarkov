@@ -1,4 +1,9 @@
-from bottle import run, route, static_file
+from bottle import post, run, route, static_file
+import processing.markov
+
+@post('/process')
+def process():
+	return processing.markov.process_markov("a","b")
 
 @route('/')
 def root():
@@ -12,6 +17,11 @@ def server_static(filename):
 @route('/js/<filename>')
 def server_static(filename):
         return static_file(filename, root='./js')
+
+@route('/plays/<filename>')
+def server_static(filename):
+        return static_file(filename, root='./plays')
+
 
 
 run(host='localhost', port=8080)

@@ -4,13 +4,46 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet"></link>
 	<script src="/js/jquery-2.1.3.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/linking.js"></script>
 </head>
 <title>Shakespeare Markov Chains</title>
 <body>
-<div class="container">
-	<div class="row">
-	<h1 style="text-align: center;">Shakespeare Markov Chains</h1>
-</div>
-</div>
+	<div class="container">
+		<div class="row">
+			<h1 style="text-align: center;">Shakespeare Markov Chains</h1>
+		</div>
+		<div class="row">
+			<div class="col-md-2">
+				<div class="dropdown">
+					<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+						Play
+						<span class="caret"></span>
+					</button>
+					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Macbeth</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<div class="dropdown">
+					<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+						Persona
+						<span class="caret"></span>
+					</button>
+					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Macbeth</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<input class="btn btn-default" onclick="submitSelection()" type="submit" value="Submit">
+			</div>
+		</div>
+		<br>
+		<div class="row">
+			<span id="generatedText">
+			</span>
+		</div>
+	</div>
 </body>
 </html>
