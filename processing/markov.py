@@ -1,4 +1,4 @@
-from random import randint
+import random
 
 def grab_personas():
 	personas = []
@@ -33,12 +33,12 @@ def grab_lines(persona):
 				line = line.replace(persona, " ")
 				line = line.replace("\n", "")
 				lines.append(line)
-				print(line)
+				#print(line)
 				nextLine = next(inputfile)
 				while nextLine.split()[0] == "I" or not nextLine.split()[0].isupper():
 					nextLine = nextLine.replace("\n", "")
 					lines.append(nextLine)
-					print(nextLine)
+					#print(nextLine)
 					nextLine = next(inputfile)
 	return lines
 
@@ -65,19 +65,30 @@ def markov_set(lines):
 	return(mapping)
 
 def generate_text(mapping):
-	size = len(mapping)
-	state = randint(0,size)
-	print(state)
 	x = 0
+	text = ""
+	size = len(mapping)
+	state = random.choice(list(mapping.keys()))
+	text = state.title()
+	state_values = mapping[state]
+	state = random.choice(state_values)
+	text = text + " " + state
 	while(x < 25):
-		word = state
-		x+=1
+		if state in mapping.keys():
+			state_values = mapping[state]
+			state = random.choice(state_values)
+			text = text + " " + state
+			x+=1
+		else:
+			break
+	text += "."
+	print(text)
 
 if __name__ == "__main__":
 	personas = grab_personas()
 	#print(personas)
 	lines = grab_lines("MACBETH")
 	mapping = markov_set(lines)
-	for k,v in markov_set(lines).items():
-		print(k + str(v))
+	#for k,v in markov_set(lines).items():
+	#	print(k + str(v))
 	generate_text(mapping)
