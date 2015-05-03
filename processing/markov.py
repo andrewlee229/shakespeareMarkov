@@ -1,11 +1,14 @@
 import random, os
 
-def grab_personas():
+def grab_personas(play):
 	personas = []
-	with open('plays/macbeth.txt') as inputfile:
+	#opens file on local computer
+	#with open('../plays/' + play + '.txt') as inputfile:
+	#opens file on server
+	with open('plays/' + play + '.txt') as inputfile:
    		for line in inputfile:
 			#Determines where the Dramatis Personae is located
-   			if(line.split()[0] == 'Dramatis'):
+   			if(line.split()[0].lower() == 'dramatis'):
    				nextLine = next(inputfile)
    				#True until all persona are listed
    				while("<<" not in nextLine):
@@ -23,13 +26,18 @@ def grab_personas():
    					nextLine = next(inputfile)
    				return(personas)
 
-def grab_lines(persona):
+def grab_lines(play, persona):
 	lines = []
 	#Whenever a persona appears in the play, it is with a period
 	persona += "."
-	with open('plays/macbeth.txt') as inputfile:
+	with open('plays/' + play + '.txt') as inputfile:
 		for line in inputfile:
-			if(line.split()[0] == persona):
+			two_word_name = ""
+			try:
+				two_word_name = line.split()[0] + " " + line.split()[1]
+			except:
+				two_word_name = ""
+			if(line.split()[0] == persona or two_word_name == persona):
 				line = line.replace(persona, " ")
 				line = line.replace("\n", "")
 				lines.append(line)
@@ -85,20 +93,13 @@ def generate_text(mapping):
 	#print(text)
 	return text
 
-def process_markov(play,persona):
-	personas = grab_personas()
+def process_markov(play, persona):
+	print("Play: " + play)
+	print("Persona: " + persona)
+	personas = grab_personas(play)
 	#print(personas)
-	lines = grab_lines("MACBETH")
+	lines = grab_lines(play, persona)
 	mapping = markov_set(lines)
 	#for k,v in markov_set(lines).items():
 	#	print(k + str(v))
 	return generate_text(mapping)
-
-if __name__ == "__main__":
-	personas = grab_personas()
-	#print(personas)
-	lines = grab_lines("MACBETH")
-	mapping = markov_set(lines)
-	#for k,v in markov_set(lines).items():
-	#	print(k + str(v))
-	generate_text(mapping)

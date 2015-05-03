@@ -1,9 +1,16 @@
-from bottle import post, run, route, static_file
-import processing.markov
+from bottle import post, request, route, run, static_file
+import json, processing.markov
 
-@post('/process')
+@post('/generate_markov')
 def process():
-	return processing.markov.process_markov("a","b")
+	play = request.forms.get('play')
+	persona = request.forms.get('persona')
+	return processing.markov.process_markov(play, persona)
+
+@post('/get_personas')
+def process():
+	play = request.forms.get('play')
+	return json.dumps(processing.markov.grab_personas(play))
 
 @route('/')
 def root():
