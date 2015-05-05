@@ -2,33 +2,36 @@
 KING RICHARD THE SECOND
 by William Shakespeare
 DRAMATIS PERSONAE
-  KING RICHARD THE SECOND
-  JOHN OF GAUNT, Duke of Lancaster - uncle to the King
-  EDMUND LANGLEY, Duke of York - uncle to the King
-  HENRY, surnamed BOLINGBROKE, Duke of Hereford, son of
-    John of Gaunt, afterwards King Henry IV
-  DUKE OF AUMERLE, son of the Duke of York
-  THOMAS MOWBRAY, Duke of Norfolk
-  DUKE OF SURREY
-  EARL OF SALISBURY
-  EARL BERKELEY
-  BUSHY - favourites of King Richard
-  BAGOT -     "      "   "     "
-  GREEN -     "      "   "     "
-  EARL OF NORTHUMBERLAND
-  HENRY PERCY, surnamed HOTSPUR, his son
-  LORD Ross                             LORD WILLOUGHBY
-  LORD FITZWATER                        BISHOP OF CARLISLE
-  ABBOT OF WESTMINSTER                  LORD MARSHAL
-  SIR STEPHEN SCROOP                    SIR PIERCE OF EXTON
-  CAPTAIN of a band of Welshmen         TWO GARDENERS
-  QUEEN to King Richard
-  DUCHESS OF YORK
-  DUCHESS OF GLOUCESTER, widow of Thomas of Woodstock,
-    Duke of Gloucester
-  LADY attending on the Queen
-  Lords, Heralds, Officers, Soldiers, Keeper, Messenger,
-    Groom, and other Attendants
+  KING RICHARD, THE SECOND
+  BUSHY, - favourites of King Richard
+  BAGOT, -     "      "   "     "
+  GREEN, -     "      "   "     "
+  QUEEN, to King Richard
+  GAUNT, Duke of Lancaster - uncle to the King
+  BOLINGBROKE, Duke of Hereford, son of
+  YORK,
+  AUMERLE, son of the Duke of York
+  SERVINGMAN,
+  DUCHESS,
+  MOWBRAY, Duke of Norfolk
+  MARSHAL,
+  SALISBURY,
+  CARLISLE,
+  SCROOP,
+  BERKELEY,
+  ABBOT,
+  CAPTAIN,
+  PERCY,
+  ROSS,
+  WILLOUGHBY,
+  FITZWATER,
+  SURREY,
+  GARDENER,
+  GROOM,
+  KEEPER,
+  EXTON,
+  NORTHUMBERLAND,
+  LADY,
 <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
 SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
 PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
@@ -440,7 +443,7 @@ Enter the LORD MARSHAL and the DUKE OF AUMERLE
   MARSHAL. Harry of Hereford, Lancaster, and Derby,
     Receive thy lance; and God defend the right!
   BOLINGBROKE. Strong as a tower in hope, I cry amen.
-  MARSHAL. [To an officer] Go bear this lance to Thomas,
+  MARSHAL.  Go bear this lance to Thomas,
       Duke of Norfolk.
   FIRST HERALD. Harry of Hereford, Lancaster, and Derby,
     Stands here for God, his sovereign, and himself,
@@ -455,8 +458,7 @@ Enter the LORD MARSHAL and the DUKE OF AUMERLE
     To God, his sovereign, and to him disloyal,
     Courageously and with a free desire
     Attending but the signal to begin.
-  MARSHAL. Sound trumpets; and set forward, combatants.
-                                           [A charge sounded]
+  MARSHAL. Sound trumpets; and set forward, combatants.                                           
     Stay, the King hath thrown his warder down.
   KING RICHARD. Let them lay by their helmets and their spears,
     And both return back to their chairs again.
@@ -551,7 +553,7 @@ Enter the LORD MARSHAL and the DUKE OF AUMERLE
   KING RICHARD. Uncle, even in the glasses of thine eyes
     I see thy grieved heart. Thy sad aspect
     Hath from the number of his banish'd years
-    Pluck'd four away. [To BOLINGBROKE] Six frozen winters spent,
+    Pluck'd four away.  Six frozen winters spent,
     Return with welcome home from banishment.
   BOLINGBROKE. How long a time lies in one little word!
     Four lagging winters and four wanton springs
@@ -1289,8 +1291,7 @@ Enter BOLINGBROKE and NORTHUMBERLAND, forces
     And fright our native peace with self-borne arms.
                  Enter YORK, attended
   BOLINGBROKE. I shall not need transport my words by you;
-    Here comes his Grace in person. My noble uncle!
-                                                     [Kneels]
+    Here comes his Grace in person. My noble uncle!                                                     
   YORK. Show me thy humble heart, and not thy knee,
     Whose duty is deceivable and false.
   BOLINGBROKE. My gracious uncle!-
@@ -1674,7 +1675,7 @@ AUMERLE, and soldiers
     And all your southern gentlemen in arms
     Upon his party.
   KING RICHARD. Thou hast said enough.
-      [To AUMERLE] Beshrew thee, cousin, which didst lead me forth
+       Beshrew thee, cousin, which didst lead me forth
     Of that sweet way I was in to despair!
     What say you now? What comfort have we now?
     By heaven, I'll hate him everlastingly
@@ -1727,7 +1728,7 @@ and forces
     Sir Stephen Scroop, besides a clergyman
     Of holy reverence; who, I cannot learn.
   NORTHUMBERLAND. O, belike it is the Bishop of Carlisle.
-  BOLINGBROKE. [To NORTHUMBERLAND] Noble lord,
+  BOLINGBROKE.  Noble lord,
     Go to the rude ribs of that ancient castle;
     Through brazen trumpet send the breath of parley
     Into his ruin'd ears, and thus deliver:
@@ -1746,8 +1747,7 @@ and forces
     The fresh green lap of fair King Richard's land,
     My stooping duty tenderly shall show.
     Go, signify as much, while here we march
-    Upon the grassy carpet of this plain.
-           [NORTHUMBERLAND advances to the Castle, with a trumpet]
+    Upon the grassy carpet of this plain.           
     Let's march without the noise of threat'ning drum,
     That from this castle's tottered battlements
     Our fair appointments may be well perus'd.
@@ -1772,7 +1772,7 @@ and forces
     As bright as is the eagle's, lightens forth
     Controlling majesty. Alack, alack, for woe,
     That any harm should stain so fair a show!
-  KING RICHARD. [To NORTHUMBERLAND] We are amaz'd; and thus long
+  KING RICHARD.  We are amaz'd; and thus long
       have we stood
     To watch the fearful bending of thy knee,
     Because we thought ourself thy lawful King;
@@ -1828,7 +1828,7 @@ and forces
     Shall be accomplish'd without contradiction.
     With all the gracious utterance thou hast
     Speak to his gentle hearing kind commends.
-    [To AUMERLE] We do debase ourselves, cousin, do we not,
+     We do debase ourselves, cousin, do we not,
     To look so poorly and to speak so fair?
     Shall we call back Northumberland, and send
     Defiance to the traitor, and so die?
@@ -1892,14 +1892,14 @@ and forces
     Yet he is come.
           Enter the KING, and his attendants, below
   BOLINGBROKE. Stand all apart,
-    And show fair duty to his Majesty.   [He kneels down]
+    And show fair duty to his Majesty.   
     My gracious lord-
   KING RICHARD. Fair cousin, you debase your princely knee
     To make the base earth proud with kissing it.
     Me rather had my heart might feel your love
     Than my unpleas'd eye see your courtesy.
     Up, cousin, up; your heart is up, I know,
-    [Touching his own head] Thus high at least, although your
+     Thus high at least, although your
       knee be low.
   BOLINGBROKE. My gracious lord, I come but for mine own.
   KING RICHARD. Your own is yours, and I am yours, and all.
@@ -1949,8 +1949,7 @@ Enter the QUEEN and two LADIES
     Let's step into the shadow of these trees.
     My wretchedness unto a row of pins,
     They will talk of state, for every one doth so
-    Against a change: woe is forerun with woe.
-                                       [QUEEN and LADIES retire]
+    Against a change: woe is forerun with woe.                                       
   GARDENER. Go, bind thou up yon dangling apricocks,
     Which, like unruly children, make their sire
     Stoop with oppression of their prodigal weight;
@@ -1996,8 +1995,7 @@ Enter the QUEEN and two LADIES
     'Tis doubt he will be. Letters came last night
     To a dear friend of the good Duke of York's
     That tell black tidings.
-  QUEEN. O, I am press'd to death through want of speaking!
-                                                [Coming forward]
+  QUEEN. O, I am press'd to death through want of speaking!d                                                
     Thou, old Adam's likeness, set to dress this garden,
     How dares thy harsh rude tongue sound this unpleasing news?
     What Eve, what serpent, hath suggested the
@@ -2344,8 +2342,7 @@ and others; HERALD, OFFICERS, and BAGOT
     Is this the face which fac'd so many follies
     That was at last out-fac'd by Bolingbroke?
     A brittle glory shineth in this face;
-    As brittle as the glory is the face;
-                        [Dashes the glass against the ground]
+    As brittle as the glory is the face;                        
     For there it is, crack'd in a hundred shivers.
     Mark, silent king, the moral of this sport-
     How soon my sorrow hath destroy'd my face.
@@ -2590,8 +2587,7 @@ Enter the DUKE OF YORK and the DUCHESS
     That he is bound to? Wife, thou art a fool.
     Boy, let me see the writing.
   AUMERLE. I do beseech you, pardon me; I may not show it.
-  YORK. I will be satisfied; let me see it, I say.
-                [He plucks it out of his bosom, and reads it]
+  YORK. I will be satisfied; let me see it, I say.                
     Treason, foul treason! Villain! traitor! slave!
   DUCHESS. What is the matter, my lord?
   YORK. Ho! who is within there?
@@ -2682,8 +2678,7 @@ Enter BOLINGBROKE as King, PERCY, and other LORDS
   BOLINGBROKE. Withdraw yourselves, and leave us here alone.
                                           Exeunt PERCY and LORDS
     What is the matter with our cousin now?
-  AUMERLE. For ever may my knees grow to the earth,
-                                                    [Kneels]
+  AUMERLE. For ever may my knees grow to the earth,                                                    
     My tongue cleave to my roof within my mouth,
     Unless a pardon ere I rise or speak.
   BOLINGBROKE. Intended or committed was this fault?
@@ -2691,13 +2686,12 @@ Enter BOLINGBROKE as King, PERCY, and other LORDS
     To win thy after-love I pardon thee.
   AUMERLE. Then give me leave that I may turn the key,
     That no man enter till my tale be done.
-  BOLINGBROKE. Have thy desire.
-            [The DUKE OF YORK knocks at the door and crieth]
-  YORK. [Within] My liege, beware; look to thyself;
+  BOLINGBROKE. Have thy desire.            
+  YORK.  My liege, beware; look to thyself;
     Thou hast a traitor in thy presence there.
-  BOLINGBROKE. [Drawing] Villain, I'll make thee safe.
+  BOLINGBROKE.  Villain, I'll make thee safe.
   AUMERLE. Stay thy revengeful hand; thou hast no cause to fear.
-  YORK. [Within] Open the door, secure, foolhardy King.
+  YORK.  Open the door, secure, foolhardy King.
     Shall I, for love, speak treason to thy face?
     Open the door, or I will break it open.
                     Enter YORK
@@ -2729,9 +2723,9 @@ Enter BOLINGBROKE as King, PERCY, and other LORDS
     Or my sham'd life in his dishonour lies.
     Thou kill'st me in his life; giving him breath,
     The traitor lives, the true man's put to death.
-  DUCHESS. [Within] I What ho, my liege, for God's sake, let me in.
+  DUCHESS.  I What ho, my liege, for God's sake, let me in.
   BOLINGBROKE. What shrill-voic'd suppliant makes this eager cry?
-  DUCHESS. [Within] A woman, and thine aunt, great King; 'tis I.
+  DUCHESS.  A woman, and thine aunt, great King; 'tis I.
     Speak with me, pity me, open the door.
     A beggar begs that never begg'd before.
   BOLINGBROKE. Our scene is alt'red from a serious thing,
@@ -2747,18 +2741,15 @@ Enter BOLINGBROKE as King, PERCY, and other LORDS
     Love loving not itself, none other can.
   YORK. Thou frantic woman, what dost thou make here?
     Shall thy old dugs once more a traitor rear?
-  DUCHESS. Sweet York, be patient. Hear me, gentle liege.
-                                                     [Kneels]
+  DUCHESS. Sweet York, be patient. Hear me, gentle liege.                                                     
   BOLINGBROKE. Rise up, good aunt.
   DUCHESS. Not yet, I thee beseech.
     For ever will I walk upon my knees,
     And never see day that the happy sees
     Till thou give joy; until thou bid me joy
     By pardoning Rutland, my transgressing boy.
-  AUMERLE. Unto my mother's prayers I bend my knee.
-                                                     [Kneels]
-  YORK. Against them both, my true joints bended be.
-                                                     [Kneels]
+  AUMERLE. Unto my mother's prayers I bend my knee.                                                     
+  YORK. Against them both, my true joints bended be.                                                     
     Ill mayst thou thrive, if thou grant any grace!
   DUCHESS. Pleads he in earnest? Look upon his face;
     His eyes do drop no tears, his prayers are in jest;
@@ -2869,7 +2860,7 @@ Enter KING RICHARD
     And straight am nothing. But whate'er I be,
     Nor I, nor any man that but man is,
     With nothing shall be pleas'd till he be eas'd
-    With being nothing.                    [The music plays]
+    With being nothing.                    
     Music do I hear?
     Ha, ha! keep time. How sour sweet music is
     When time is broke and no proportion kept!
@@ -2936,21 +2927,17 @@ Enter KING RICHARD
   KEEPER. My lord, I dare not. Sir Pierce of Exton,
     Who lately came from the King, commands the contrary.
   KING RICHARD. The devil take Henry of Lancaster and thee!
-    Patience is stale, and I am weary of it.
-                                           [Beats the KEEPER]
+    Patience is stale, and I am weary of it.                                           
   KEEPER. Help, help, help!
     The murderers, EXTON and servants, rush in, armed
   KING RICHARD. How now! What means death in this rude assault?
-    Villain, thy own hand yields thy death's instrument.
-                         [Snatching a weapon and killing one]
-    Go thou and fill another room in hell.
-              [He kills another, then EXTON strikes him down]
+    Villain, thy own hand yields thy death's instrument.                         
+    Go thou and fill another room in hell.              
     That hand shall burn in never-quenching fire
     That staggers thus my person. Exton, thy fierce hand
     Hath with the King's blood stain'd the King's own land.
     Mount, mount, my soul! thy seat is up on high;
-    Whilst my gross flesh sinks downward, here to die.
-                                                       [Dies]
+    Whilst my gross flesh sinks downward, here to die.                                                       
   EXTON. As full of valour as of royal blood.
     Both have I spill'd. O, would the deed were good!
     For now the devil, that told me I did well,

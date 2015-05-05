@@ -8,6 +8,8 @@ $(document).ready(function(){
 		var play_input = $(this).val();
 		$.post("/get_personas", {play: play_input})
 		.done(function(data){
+			$("#personas").empty();
+			$("#personas").append('<option value="">Select Persona</option>');
 			var data = JSON.parse(data);
 			for(i = 0; i < data.length; i++){
 				var persona = data[i].toLowerCase().split(" ");
@@ -18,6 +20,7 @@ $(document).ready(function(){
 					persona = persona[0].charAt(0).toUpperCase() + persona[0].slice(1)
 				}
 				$("#personas").append('<option value="'+ data[i] +'">'+ persona +'</option>');
+				
 			}
 		});
 	});
@@ -30,6 +33,6 @@ function submitSelection(){
 	$.post("/generate_markov", {play: play_input, persona: persona_input})
 	.done(function(data){
 		console.log(data);
-		document.getElementById("generatedText").innerHTML = data;
+		document.getElementById("generatedText").innerHTML = persona_input + ".   " + data;
 	});
 }

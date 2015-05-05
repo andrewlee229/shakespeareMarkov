@@ -3,30 +3,30 @@ KING JOHN
 by William Shakespeare
 DRAMATIS PERSONAE
     KING JOHN,
-    PRINCE HENRY, his son
-    ARTHUR, DUKE OF BRITAINE, son of Geffrey, late Duke of
-      Britaine, the elder brother of King John
-    PEMBROKE,
-    ESSEX,
-    SALISBURY,
-    BIGOT,
-    HUBERT,
-    ROBERT, son to Sir Robert Faulconbridge
-    BASTARD, his half-brother
-    GURNEY, servant to Lady Faulconbridge
-    PETER, a prophet
-    KING PHILIP, OF FRANCE
-    LEWIS, the Dauphin
-    LYMOGES, Duke of Austria
-    PANDULPH, the Pope's legate
-    MELUN, a French lord
-    CHATILLON, ambassador from France to King John
-    QUEEN ELINOR, widow of King Henry II and mother to
+    ELINOR, widow of King Henry II and mother to
       King John
-    CONSTANCE, Mother to Arthur
     BLANCH, daughter to the King of Castile
       and niece to King John
+    PRINCE HENRY, his son
+    CONSTANCE, Mother to Arthur
+    ARTHUR, DUKE OF BRITAINE, son of Geffrey, late Duke of
+      Britaine, the elder brother of King John
+    KING PHILIP, OF FRANCE
+    LEWIS, the Dauphin
+    AUSTRIA, Duke of Austria
+    CHATILLON, ambassador from France to King John
+    MELUN, a French lord
+    PANDULPH, the Pope's legate
     LADY FAULCONBRIDGE, widow of Sir Robert Faulconbridge
+    BASTARD, his half-brother
+    ROBERT, son to Sir Robert Faulconbridge
+    GURNEY, servant to Lady Faulconbridges
+    HUBERT,
+    SALISBURY,
+    PEMBROKE,
+    ESSEX,
+    BIGOT,
+    PETER, a prophet
     Lords, Citizens of Angiers, Sheriff, Heralds, Officers,
       Soldiers, Executioners, Messengers, Attendants
 <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
@@ -416,7 +416,7 @@ LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
     In brief, a braver choice of dauntless spirits
     Than now the English bottoms have waft o'er
     Did never float upon the swelling tide
-    To do offence and scathe in Christendom.             [Drum beats]
+    To do offence and scathe in Christendom.             
     The interruption of their churlish drums
     Cuts off more circumstance: they are at hand;
     To parley or to fight, therefore prepare.
@@ -640,7 +640,7 @@ LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
   KING PHILIP. Amen, Amen! Mount, chevaliers; to arms!
   BASTARD. Saint George, that swing'd the dragon, and e'er since
     Sits on's horse back at mine hostess' door,
-    Teach us some fence!  [To AUSTRIA]  Sirrah, were I at home,
+    Teach us some fence!    Sirrah, were I at home,
     At your den, sirrah, with your lioness,
     I would set an ox-head to your lion's hide,
     And make a monster of you.
@@ -769,7 +769,7 @@ LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
   AUSTRIA. I from the north.
   KING PHILIP. Our thunder from the south
     Shall rain their drift of bullets on this town.
-  BASTARD.  [Aside]  O prudent discipline! From north to south,
+  BASTARD.    O prudent discipline! From north to south,
     Austria and France shoot in each other's mouth.
     I'll stir them to it.-Come, away, away!
   CITIZEN. Hear us, great kings: vouchsafe awhile to stay,
@@ -860,9 +860,8 @@ LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
     Becomes a sun, and makes your son a shadow.
     I do protest I never lov'd myself
     Till now infixed I beheld myself
-    Drawn in the flattering table of her eye.
-                                               [Whispers with BLANCH]
-  BASTARD.  [Aside]  Drawn in the flattering table of her eye,
+    Drawn in the flattering table of her eye.                                               
+  BASTARD.    Drawn in the flattering table of her eye,
     Hang'd in the frowning wrinkle of her brow,
     And quarter'd in her heart-he doth espy
     Himself love's traitor. This is pity now,
@@ -1043,7 +1042,7 @@ Enter CONSTANCE, ARTHUR, and SALISBURY
     To me, and to the state of my great grief,
     Let kings assemble; for my grief's so great
     That no supporter but the huge firm earth
-    Can hold it up.                     [Seats herself on the ground]
+    Can hold it up.                     
     Here I and sorrows sit;
     Here is my throne, bid kings come bow to it.
        Enter KING JOHN, KING PHILIP, LEWIS, BLANCH,
@@ -1056,7 +1055,7 @@ Enter CONSTANCE, ARTHUR, and SALISBURY
     The meagre cloddy earth to glittering gold.
     The yearly course that brings this day about
     Shall never see it but a holiday.
-  CONSTANCE.  [Rising]  A wicked day, and not a holy day!
+  CONSTANCE.    A wicked day, and not a holy day!
     What hath this day deserv'd? what hath it done
     That it in golden letters should be set
     Among the high tides in the calendar?
@@ -1351,13 +1350,13 @@ SCENE 3.
 France. Plains near Angiers
 Alarums, excursions, retreat. Enter KING JOHN, ELINOR, ARTHUR,
 the BASTARD, HUBERT, and LORDS
-  KING JOHN.  [To ELINOR]  So shall it be; your Grace shall stay
+  KING JOHN.    So shall it be; your Grace shall stay
       behind,
-    So strongly guarded.  [To ARTHUR]  Cousin, look not sad;
+    So strongly guarded.    Cousin, look not sad;
     Thy grandam loves thee, and thy uncle will
     As dear be to thee as thy father was.
   ARTHUR. O, this will make my mother die with grief!
-  KING JOHN.  [To the BASTARD]  Cousin, away for England! haste
+  KING JOHN.    Cousin, away for England! haste
       before,
     And, ere our coming, see thou shake the bags
     Of hoarding abbots; imprisoned angels
@@ -1432,7 +1431,7 @@ the BASTARD, HUBERT, and LORDS
     Remember. Madam, fare you well;
     I'll send those powers o'er to your Majesty.
   ELINOR. My blessing go with thee!
-  KING JOHN.  [To ARTHUR]  For England, cousin, go;
+  KING JOHN.    For England, cousin, go;
     Hubert shall be your man, attend on you
     With all true duty. On toward Calais, ho!                  Exeunt
 SCENE 4.
@@ -1541,8 +1540,7 @@ Enter KING PHILIP, LEWIS, PANDULPH, and attendants
     Then have I reason to be fond of grief.
     Fare you well; had you such a loss as I,
     I could give better comfort than you do.
-    I will not keep this form upon my head,
-                                                   [Tearing her hair]
+    I will not keep this form upon my head,                                                   
     When there is such disorder in my wit.
     O Lord! my boy, my Arthur, my fair son!
     My life, my joy, my food, my ail the world!
@@ -1664,16 +1662,16 @@ Enter HUBERT and EXECUTIONERS
     Is it my fault that I was Geffrey's son?
     No, indeed, ist not; and I would to heaven
     I were your son, so you would love me, Hubert.
-  HUBERT.  [Aside]  If I talk to him, with his innocent prate
+  HUBERT.    If I talk to him, with his innocent prate
     He will awake my mercy, which lies dead;
     Therefore I will be sudden and dispatch.
   ARTHUR. Are you sick, Hubert? You look pale to-day;
     In sooth, I would you were a little sick,
     That I might sit all night and watch with you.
     I warrant I love you more than you do me.
-  HUBERT.  [Aside]  His words do take possession of my bosom.-
-    Read here, young Arthur.                        [Showing a paper]
-      [Aside]  How now, foolish rheum!
+  HUBERT.    His words do take possession of my bosom.-
+    Read here, young Arthur.                        
+        How now, foolish rheum!
     Turning dispiteous torture out of door!
     I must be brief, lest resolution drop
     Out at mine eyes in tender womanish tears.-
@@ -1714,7 +1712,7 @@ Enter HUBERT and EXECUTIONERS
     An if an angel should have come to me
     And told me Hubert should put out mine eyes,
     I would not have believ'd him-no tongue but Hubert's.
-  HUBERT.  [Stamps]  Come forth.
+  HUBERT.    Come forth.
      Re-enter EXECUTIONERS, With cord, irons, etc.
     Do as I bid you do.
   ARTHUR. O, save me, Hubert, save me! My eyes are out
@@ -1857,7 +1855,7 @@ Enter KING JOHN, PEMBROKE, SALISBURY, and other LORDS
   KING JOHN. Let it be so. I do commit his youth
     To your direction.
                      Enter HUBERT
-    [Aside]  Hubert, what news with you?
+      Hubert, what news with you?
   PEMBROKE. This is the man should do the bloody deed:
     He show'd his warrant to a friend of mine;
     The image of a wicked heinous fault
@@ -2082,10 +2080,9 @@ Enter ARTHUR, on the walls
     I am afraid; and yet I'll venture it.
     If I get down and do not break my limbs,
     I'll find a thousand shifts to get away.
-    As good to die and go, as die and stay.              [Leaps down]
+    As good to die and go, as die and stay.              
     O me! my uncle's spirit is in these stones.
-    Heaven take my soul, and England keep my bones!
-    [Dies]
+    Heaven take my soul, and England keep my bones!    
           Enter PEMBROKE, SALISBURY, and BIGOT
   SALISBURY. Lords, I will meet him at Saint Edmundsbury;
     It is our safety, and we must embrace
@@ -2157,7 +2154,7 @@ Enter ARTHUR, on the walls
   SALISBURY. O, he is bold, and blushes not at death!
     Avaunt, thou hateful villain, get thee gone!
   HUBERT. I am no villain.
-  SALISBURY. Must I rob the law?                  [Drawing his sword]
+  SALISBURY. Must I rob the law?                  
   BASTARD. Your sword is bright, sir; put it up again.
   SALISBURY. Not till I sheathe it in a murderer's skin.
   HUBERT. Stand back, Lord Salisbury, stand back, I say;
@@ -2259,7 +2256,7 @@ England. KING JOHN'S palace
 Enter KING JOHN, PANDULPH, and attendants
   KING JOHN. Thus have I yielded up into your hand
     The circle of my glory.
-  PANDULPH.  [Gives back the crown]  Take again
+  PANDULPH.    Take again
     From this my hand, as holding of the Pope,
     Your sovereign greatness and authority.
   KING JOHN. Now keep your holy word; go meet the French;
@@ -2460,8 +2457,7 @@ Enter, in arms, LEWIS, SALISBURY, MELUN, PEMBROKE, BIGOT, and soldiers
     Before I drew this gallant head of war,
     And cull'd these fiery spirits from the world
     To outlook conquest, and to will renown
-    Even in the jaws of danger and of death.
-                                                     [Trumpet sounds]
+    Even in the jaws of danger and of death.                                                     
     What lusty trumpet thus doth summon us?
              Enter the BASTARD, attended
   BASTARD. According to the fair play of the world,
@@ -2769,7 +2765,7 @@ Enter PRINCE HENRY, SALISBURY, and BIGOT
     For in a night the best part of my pow'r,
     As I upon advantage did remove,
     Were in the Washes all unwarily
-    Devoured by the unexpected flood.                 [The KING dies]
+    Devoured by the unexpected flood.                 
   SALISBURY. You breathe these dead news in as dead an ear.
     My liege! my lord! But now a king-now thus.
   PRINCE HENRY. Even so must I run on, and even so stop.

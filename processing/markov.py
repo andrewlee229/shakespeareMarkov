@@ -28,6 +28,7 @@ def grab_personas(play):
 
 def grab_lines(play, persona):
 	lines = []
+	exclude = ['Exeunt', 'Re-enter', 'Enter', 'Exit', 'Enter,']
 	#Whenever a persona appears in the play, it is with a period
 	persona += "."
 	with open('plays/' + play + '.txt') as inputfile:
@@ -45,20 +46,32 @@ def grab_lines(play, persona):
 				nextLine = next(inputfile)
 				while nextLine.split()[0] == "I" or not nextLine.split()[0].isupper():
 					nextLine = nextLine.replace("\n", "")
-					lines.append(nextLine)
+					if nextLine.split()[0] not in exclude:
+						lines.append(nextLine)
+						#print(nextLine)
 					#print(nextLine)
 					nextLine = next(inputfile)
 	return lines
 
 def markov_set(lines):
-	punct = [',','.',"\"","?","!",";"]
+	punct = [',','.',"\"","?","!",";",":","(",")"]
 	mapping = {}
 	for x in lines:
 		line = x.split()
 		prev_word = ""
 		i = 0
 		for l in line:
-			word = ''.join(ch for ch in l if ch not in punct).lower()
+			word = ''.join(ch for ch in l if ch not in punct)
+			word = word.lower()
+			if(word == "exit" or word == "exeunt"):
+				break
+			if(word == "i"):
+				word = "I"
+			try:
+				if(word[len(word)-1] == "-"):
+					word = word[:-1]
+			except:
+				pass
 			if i == 0:
 				i+=1
 			elif i == len:
@@ -77,7 +90,7 @@ def generate_text(mapping):
 	text = ""
 	size = len(mapping)
 	state = random.choice(list(mapping.keys()))
-	text = state.title()
+	text = state.capitalize()
 	state_values = mapping[state]
 	state = random.choice(state_values)
 	text = text + " " + state
