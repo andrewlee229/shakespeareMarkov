@@ -1,9 +1,11 @@
 var arr = ["A Midsummer Night's Dream", "Hamlet", "King John", "Macbeth", "Richard II", "Richard III", "Troilus and Cressida"];
 
 $(document).ready(function(){
+	//Append with play list
 	for(i = 0; i < arr.length; i++){
 		$("#plays").append('<option value="'+ arr[i] +'">'+ arr[i] +'</option>');
 	}
+	//Gets personas for the selected play when a user selects a play
 	$('#plays').on('change', function() {
 		var play_input = $(this).val();
 		$.post("/get_personas", {play: play_input})
@@ -26,7 +28,7 @@ $(document).ready(function(){
 	});
 });
 
-
+//Gets the generated text when the user clicks submit
 function submitSelection(){
 	play_input = document.getElementById("plays").value;
 	persona_input = document.getElementById("personas").value;

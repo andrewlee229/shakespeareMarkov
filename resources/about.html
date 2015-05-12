@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="css/bootstrap.min.css" rel="stylesheet"></link>
+	<link href="css/themes.css" rel="stylesheet"></link>
+	<script src="/js/jquery-2.1.3.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/linking.js"></script>
+</head>
+<title>Shakespeare Markov Chains</title>
+<body>
+	<div class="container">
+		<div class="row">
+			<h1 style="text-align: center;">About</h1>
+		</div>
+		<div class="row">
+			This project was created for the final for ENRN 4500 (Medieval Shakespeare).
+		</div>
+		<div class="row">
+			<h2 style="text-align: center;">How it Works</h2>
+		</div>
+		<div class="row">
+			The user selects a play and a persona and clicks submit. The program then grabs all of the lines for the selected character. Each word in each line is then associated with all of the words that succeed it. For example Lady Macbeth has lines that contain "...the receipt..." and "...the brain...". The word 'the' then would be associated with 'receipt' and 'brain'. To generate text the program starts by choosing an initial word randomly. The next word is selected based on probability by going through the words associated with the initial word. This process continues until the maximum sentence length is reached (currently set to 25) or a word is selected that doesn't have any words associated with it (like a word at the end of a sentence). Each word is only based on the current state of the program, and selection is not based on any word that preceded it; a Markov chain.
+		</div>
+	</div>
+</body>
+</html>
